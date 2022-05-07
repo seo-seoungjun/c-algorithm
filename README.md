@@ -1,2 +1,2 @@
 # c-algorithm
-c언어 알고리즘 연습
+practice C algorithm (2022 seoultech)
